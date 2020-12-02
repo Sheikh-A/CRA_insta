@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/Sheikh-A/CRA_insta/static/css/main.0336fdac.chunk.css",
+    "main.js": "/Sheikh-A/CRA_insta/static/js/main.28f26bf3.chunk.js",
+    "main.js.map": "/Sheikh-A/CRA_insta/static/js/main.28f26bf3.chunk.js.map",
+    "runtime-main.js": "/Sheikh-A/CRA_insta/static/js/runtime-main.099c5411.js",
+    "runtime-main.js.map": "/Sheikh-A/CRA_insta/static/js/runtime-main.099c5411.js.map",
+    "static/js/2.25e3912d.chunk.js": "/Sheikh-A/CRA_insta/static/js/2.25e3912d.chunk.js",
+    "static/js/2.25e3912d.chunk.js.map": "/Sheikh-A/CRA_insta/static/js/2.25e3912d.chunk.js.map",
+    "index.html": "/Sheikh-A/CRA_insta/index.html",
+    "precache-manifest.ef1c58a0bf5aab5d48f57ce3a5dd8bcd.js": "/Sheikh-A/CRA_insta/precache-manifest.ef1c58a0bf5aab5d48f57ce3a5dd8bcd.js",
+    "service-worker.js": "/Sheikh-A/CRA_insta/service-worker.js",
+    "static/css/main.0336fdac.chunk.css.map": "/Sheikh-A/CRA_insta/static/css/main.0336fdac.chunk.css.map",
+    "static/js/2.25e3912d.chunk.js.LICENSE.txt": "/Sheikh-A/CRA_insta/static/js/2.25e3912d.chunk.js.LICENSE.txt",
+    "static/media/kenz.png": "/Sheikh-A/CRA_insta/static/media/kenz.e042e2bb.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.099c5411.js",
+    "static/js/2.25e3912d.chunk.js",
+    "static/css/main.0336fdac.chunk.css",
+    "static/js/main.28f26bf3.chunk.js"
+  ]
+}
