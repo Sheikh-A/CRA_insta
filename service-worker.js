@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/Sheikh-A/CRA_insta/precache-manifest.ef1c58a0bf5aab5d48f57ce3a5dd8bcd.js"
+  "/Sheikh-A/CRA_insta/precache-manifest.07ce3468c674071ee937d7251bc52fdf.js"
 );
 
 self.addEventListener('message', (event) => {

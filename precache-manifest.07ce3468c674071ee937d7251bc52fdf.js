@@ -1,11 +1,11 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "998567341376722f81c3b1d0055cd8fd",
+    "revision": "48a7322c612ae0f38b656c93b336b3cd",
     "url": "/Sheikh-A/CRA_insta/index.html"
   },
   {
-    "revision": "916ad3d7e6babf4fb2e9",
-    "url": "/Sheikh-A/CRA_insta/static/css/main.0336fdac.chunk.css"
+    "revision": "27605ec5d35013f80de7",
+    "url": "/Sheikh-A/CRA_insta/static/css/main.748fa33e.chunk.css"
   },
   {
     "revision": "2c0ed6a8759ecc335a5c",
@@ -16,8 +16,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/Sheikh-A/CRA_insta/static/js/2.25e3912d.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "916ad3d7e6babf4fb2e9",
-    "url": "/Sheikh-A/CRA_insta/static/js/main.28f26bf3.chunk.js"
+    "revision": "27605ec5d35013f80de7",
+    "url": "/Sheikh-A/CRA_insta/static/js/main.ef9e82de.chunk.js"
   },
   {
     "revision": "2f13f21ad0e8b4efd27e",
